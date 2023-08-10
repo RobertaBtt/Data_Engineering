@@ -27,3 +27,17 @@ its goal is to make quality
 data available for fact-finding and data-driven decision making.
 
 ![DataEngineering.jpg](DataEngineering.jpg)
+
+
+| Databases and Data Warehouse     |                                                                 |
+|----------------------------------|-----------------------------------------------------------------|
+| RDBMS                            | IBM DB2m PostgreSQL, MySQL, Oracle DB                           |
+| Not Only SQL                     | Redis, Cassandra, Neo4J                                         |
+| Data Warehouses| Oracle Exadata, IBM DB2 Warehouse, IBM Netezza, Amazon Redshift |
+
+
+| Big Data processing tools                   | 
+|---------------------------------------------|
+| ![Big_data_Hadoop.jpg](About%2FBig_data_Hadoop.jpg)|
+| ![Big_Data_Hive.jpg](About%2FBig_Data_Hive.jpg)    | 
+|  ![Big_data_Spark.jpg](About%2FBig_data_Spark.jpg) |
