@@ -65,3 +65,79 @@ in the target system.
 
 
 ![data_pipelines_tools.png](data_pipelines_tools.png)
+
+## Data Integration
+
+Data integration as a discipline that involved 
+- the practices, architectural techniques, tools that allow organizations to 
+  - ingest
+  - transform
+  - combine
+  - provision 
+  
+data across various data types
+
+- Data consistency across applications
+- Master data management
+- Data sharing between enterprises
+- Data migration and consolidation
+
+Data integration includes:
+
+- accessing, queueing, or extracting data from operational systems 
+- transforming and merging extracted data either logically or physically 
+- data quality and governance
+- delivering data through an integrated approach for analytics purposes
+
+
+ - Data integration combines disparate data into a unified view of the data, 
+ - Data pipeline covers the entire data movement journey from source to destination systems
+
+![data_pipeline.png](data_pipeline.png)
+
+Capabilities of a modern data integration:
+
+- Pre-built connectors and adopters that help you connect and build 
+integration flows with a wide variety of data sources such as databases, flat files, social media data, APIs, CRM and ERP applications. 
+
+- Open-source architecture that provides greater flexibility
+- Optimization for both batch processing of large-scale data and continuous data streams, or both. 
+
+- Integration with Big Data sources.
+- Functionalities for data governance, compliance, security
+- Portability between differennt cloud environments
+
+**Data Integration Tools:**
+
+![data_integration_tools.png](data_integration_tools.png)
+
+---
+
+**Talend Integration Tools:**
+
+![Talend.png](Talend.png)
+
+- Talend Data Fabric
+- Talend Cloud
+- Talend Data Catalog
+- Talend Data Management
+- Talend Big Data
+- Talend Data Services
+- Talend Open Studio
+
+---
+**Other vendors of data integrations**
+
+![the_other_vendors.png](the_other_vendors.png)
+
+
+---
+
+**Open source tools**
+![open_source_tools.png](open_source_tools.png)
+
+
+---
+
+**Platform as a Service (PaaS)**
+![Paas.png](Paas.png)
